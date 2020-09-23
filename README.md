@@ -51,7 +51,7 @@ It also has improved functionality and security.
 
 Deployed to a Cloud it's a SaaS (Software as a Service) solution.
 
-DEMO
+DEMO - ORIGINAL OSPOS
 ----
 
 A demo version of the latest master version can be found on our [Demo server](https://demo.opensourcepos.org). This is a containerized install which will be reinitialized when new functionality is added to the code repository.
