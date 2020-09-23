@@ -32,6 +32,17 @@ The main features are:
 * reCAPTCHA to protect login page from brute force attacks
 * GDPR ready
 
+mambiux - MODS "WORK IN PROGRESS!"
+------------
+* Detailed Sales Report Show Items List For Each Sale
+* Connect to Woocomerce for Inventory Pull
+* Modified login screen
+* Updated ICONS
+* MODIFIED items list.
++ fULL EXPORT OF ITEMS
+
+
+
 The software is written in PHP language, it uses MySQL (or MariaDB) as data storage back-end and has a simple but intuitive user interface.
 
 The latest 3.x version is a complete overhaul of the original software.
